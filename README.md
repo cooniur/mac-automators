@@ -7,7 +7,7 @@ Mac OS X
 
 Install
 -------
-Double click the workflow file to install.
+To install, double click the workflow "file" (which appears to be a file but actually in Mac OS is a folder).
 
 File Services
 -------------
